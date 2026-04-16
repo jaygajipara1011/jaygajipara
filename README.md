@@ -28,7 +28,6 @@ I enjoy solving real-world problems and continuously improving my skills.
 - Manage cars, customers & sales
 - Admin panel with CRUD operations
 
-👉 (Add GitHub Repo Link Here)
 
 ---
 
@@ -57,11 +56,6 @@ I enjoy solving real-world problems and continuously improving my skills.
 
 ---
 
-## 🌟 GitHub Stats
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔥 Top Skills
 
